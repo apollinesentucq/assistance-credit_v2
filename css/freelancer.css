@@ -70,7 +70,7 @@ header {
   text-align: center;
   // background: #3BCDD6;
   color: white;
-  background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("../img/cover.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../img/cover.jpg");
   background-size: cover;
   height: 800px;
 }
